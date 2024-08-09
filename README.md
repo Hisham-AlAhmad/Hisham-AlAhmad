@@ -1,4 +1,8 @@
 ## Hi there 👋
+My name is **Hisham Al Ahmad** , graduated from LIU University in lebanon.
+I am interested in Artifical Intellegence, Web Development.
+Curruntly improving myself in python, learning js.
+I like to develop my skills and make something big that will benefit the community.
 
 <!--
 **Hisham-AlAhmad/Hisham-AlAhmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,8 +1,5 @@
 # 💫 About Me:
-My name is Hisham Al Ahmad , graduated from LIU University in Lebanon.<br>
-I am interested in Artificial Intelligence, Web Development.<br>
-Currently improving myself in python, js.<br>
-I like to develop my skills and make something big that will benefit the community.
+A highly motivated person with a passion for problem-solving and technology. A quick learner with strong adaptability to new tools and frameworks. Possesses excellent time management and organizational skills, allowing for efficient task prioritization in fast-paced settings. Excited to design and develop responsive, user-friendly applications with modern frameworks.
 
 
 # 💻 Tech Stack:

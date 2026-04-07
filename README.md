@@ -10,14 +10,11 @@ Full stack web developer with a passion for problem-solving and technology. Quic
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2307405e.svg?style=flat&logo=sqlite&logoColor=white)
 
 **Frontend:**
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D)
-![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxtdotjs&logoColor=#00DC82)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 **Backend:**
@@ -45,4 +42,6 @@ Full stack web developer with a passion for problem-solving and technology. Quic
 
 # 📊 GitHub Stats:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hisham-AlAhmad&theme=github_dark) <br/> <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisham-AlAhmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Hisham-AlAhmad&theme=dark&hide_border=false&include_all_commits=true&count_private=true) <br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hisham-AlAhmad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) <br/>
+![](https://github-readme-activity-graph.vercel.app/graph?username=Hisham-AlAhmad&theme=github-compact&hide_border=true)
